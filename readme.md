@@ -1,2 +1,3 @@
 The entire ollama application self-contained in the front end on your desktop and portable, meaning you can run it without needing to install Ollama globally on your system or in a system that you may not want a systemwide installation.
 All communication happens in localhost port 11434 where ollama.exe is set to server mode so you can Build with ollama as a local support server to your app or use directly within your app.
+For demo and installation -> https://www.youtube.com/watch?v=cnL5jtU3QWE
